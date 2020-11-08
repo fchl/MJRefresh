@@ -79,10 +79,11 @@
         // 2.格式化日期
         NSDateFormatter *formatter = [[NSDateFormatter alloc] init];
         BOOL isToday = NO;
-        if ([cmp1 day] == [cmp2 day]) { // 今天
-            formatter.dateFormat = @" HH:mm";
-            isToday = YES;
-        } else if ([cmp1 year] == [cmp2 year]) { // 今年
+//        if ([cmp1 day] == [cmp2 day]) { // 今天
+//            formatter.dateFormat = @"MM-dd HH:mm";
+//            isToday = YES;
+//        } else
+            if ([cmp1 year] == [cmp2 year]) { // 今年
             formatter.dateFormat = @"MM-dd HH:mm";
         } else {
             formatter.dateFormat = @"yyyy-MM-dd HH:mm";
