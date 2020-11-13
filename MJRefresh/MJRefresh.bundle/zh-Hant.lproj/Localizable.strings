@@ -1,0 +1,16 @@
+"MJRefreshHeaderIdleText" = "下にスライドして更新する";
+"MJRefreshHeaderPullingText" = "離して即更新";
+"MJRefreshHeaderRefreshingText" = "ロード中...";
+
+"MJRefreshAutoFooterIdleText" = "クリックまたは上へスライドしてもっと見る";
+"MJRefreshAutoFooterRefreshingText" = "ロード中...";
+"MJRefreshAutoFooterNoMoreDataText" = "完了";
+
+"MJRefreshBackFooterIdleText" = "上へスライドしてもっと見る";
+"MJRefreshBackFooterPullingText" = "離して即更新";
+"MJRefreshBackFooterRefreshingText" = "ロード中...";
+"MJRefreshBackFooterNoMoreDataText" = "完了";
+
+"MJRefreshHeaderLastTimeText" = "最後の更新：";
+"MJRefreshHeaderDateTodayText" = " ";
+"MJRefreshHeaderNoneLastDateText" = "記録なし";
